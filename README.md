@@ -1,4 +1,4 @@
-# AuraPlayer — Offline Android Music Player
+# AuraPlayer â€” Offline Android Music Player
 
 ![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
 ![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)
