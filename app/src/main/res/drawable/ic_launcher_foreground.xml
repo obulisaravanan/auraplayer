@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Music note with gradient-style purple/cyan styling -->
+    <path
+        android:fillColor="#6C5CE7"
+        android:pathData="M66,28v32.2c-1.8,-1.1 -4.1,-1.8 -6.6,-1.8 -6.6,0 -12,4.8 -12,10.8s5.4,10.8 12,10.8 12,-4.8 12,-10.8V37.6l16,-3.6V24.4L66,28z" />
+    <path
+        android:fillColor="#00CEC9"
+        android:pathData="M42,54v14.2c-1.8,-1.1 -4.1,-1.8 -6.6,-1.8 -6.6,0 -12,4.8 -12,10.8s5.4,10.8 12,10.8 12,-4.8 12,-10.8V54h-5.4z" />
+</vector>

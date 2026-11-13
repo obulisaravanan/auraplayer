@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Music</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_songs">Songs</string>
+    <string name="nav_unplayed">Unplayed</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_settings">Settings</string>
+</resources>
