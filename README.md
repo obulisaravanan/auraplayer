@@ -1,5 +1,10 @@
-# My Music â€” Personal Android Music Player
+# AuraPlayer — Offline Android Music Player
 
+![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple?logo=kotlin)
+![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
+![ExoPlayer](https://img.shields.io/badge/Audio-Media3%20ExoPlayer-orange)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 A full-featured native Android music player designed for personal, offline-first listening. Built with modern Android development standards including **Kotlin**, **Jetpack Compose (Material 3)**, **AndroidX Media3 ExoPlayer**, **MediaSessionService**, **Room Database**, and **DataStore Preferences**.
 
 ---
