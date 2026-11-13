@@ -5,6 +5,8 @@
 ![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-blue)
 ![ExoPlayer](https://img.shields.io/badge/Audio-Media3%20ExoPlayer-orange)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?logo=android)](https://github.com/obulisaravanan/auraplayer/releases/latest)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%99%A5-pink?logo=githubsponsors)](https://github.com/sponsors/obulisaravanan)
 A full-featured native Android music player designed for personal, offline-first listening. Built with modern Android development standards including **Kotlin**, **Jetpack Compose (Material 3)**, **AndroidX Media3 ExoPlayer**, **MediaSessionService**, **Room Database**, and **DataStore Preferences**.
 
 ---
@@ -116,3 +118,13 @@ Run unit tests to verify played threshold logic and database reconciliation:
 - `LibraryReconciliationTest`: Verifies that rescans preserve played statuses and play counts.
 
 <!-- AuraPlayer Audio Engine verified -->
+
+---
+
+## 💖 Support the Project
+
+AuraPlayer is **100% free, offline, ad-free, and privacy-respecting**. If you enjoy using AuraPlayer and want to support ongoing development, maintenance, and new features:
+
+- **[Sponsor on GitHub](https://github.com/sponsors/obulisaravanan)**: Support with a monthly tier or a one-time tip.
+- **Star the Repository**: Help more people discover AuraPlayer by giving it a star on GitHub!
+- **Report Bugs & Suggest Features**: Open an issue to share ideas.
