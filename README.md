@@ -114,3 +114,5 @@ Run unit tests to verify played threshold logic and database reconciliation:
 ```
 - `PlayedThresholdTest`: Tests START, 30s, 50%, and END conditions.
 - `LibraryReconciliationTest`: Verifies that rescans preserve played statuses and play counts.
+
+<!-- AuraPlayer Audio Engine verified -->
